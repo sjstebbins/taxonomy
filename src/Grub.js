@@ -8,4 +8,3 @@ Grub.prototype.eat = function(){
 
   };
 
-  this.prototype = {constructor: this};
